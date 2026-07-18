@@ -1,0 +1,21 @@
+.caixaTexto {
+    font-size: 32px;
+    color: black;
+    padding-left: 16px;
+}
+.botao {
+    font-size: 32px;
+}
+
+.vermelho{
+    background-color: red;
+}
+.azul{
+    background-color: blue;
+}
+.amarelo{
+    background-color: yellow;
+}
+.verde{
+    background-color: green;
+}
